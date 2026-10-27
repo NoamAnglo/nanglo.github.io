@@ -1,2 +1,2 @@
-# noamanglo.github.io
+# nanglo.github.io
 vibe-coded website 
